@@ -1,0 +1,99 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="SuiteDemo" parallel="classes">
+<listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    </listeners>
+    <test name="TestDemo">
+        <classes>
+            <class name="CRM.CRM_Activity4" />
+        </classes>
+    </test>
+</suite>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="SuiteDemo" parallel="classes">
+<listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    </listeners>
+    <test name="TestDemo">
+        <classes>
+            <class name="CRM.CRM_Activity5" />
+        </classes>
+    </test>
+</suite>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="SuiteDemo" parallel="classes">
+<listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    </listeners>
+    <test name="TestDemo">
+        <classes>
+            <class name="CRM.CRM_Activity6" />
+        </classes>
+    </test>
+</suite>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="SuiteDemo" parallel="classes">
+<listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    </listeners>
+    <test name="TestDemo">
+        <classes>
+            <class name="CRM.CRM_Activity7" />
+        </classes>
+    </test>
+</suite>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="SuiteDemo" parallel="classes">
+<listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    </listeners>
+    <test name="TestDemo">
+        <classes>
+            <class name="CRM.CRM_Activity8" />
+        </classes>
+    </test>
+</suite>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="SuiteDemo" parallel="classes">
+<listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    </listeners>
+    <test name="TestDemo">
+        <classes>
+            <class name="CRM.CRM_Activity9" />
+        </classes>
+    </test>
+</suite>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="SuiteDemo" parallel="classes">
+<listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    </listeners>
+    <test name="TestDemo">
+        <classes>
+            <class name="CRM.CRM_Activity10" />
+        </classes>
+    </test>
+</suite>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="SuiteDemo" parallel="classes">
+<listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    </listeners>
+    <test name="TestDemo">
+        <classes>
+            <class name="CRM.CRM_Activity11" />
+        </classes>
+    </test>
+</suite>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="SuiteDemo" parallel="classes">
+<listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    </listeners>
+    <test name="TestDemo">
+        <classes>
+            <class name="CRM.CRM_Activity12" />
+        </classes>
+    </test>
+</suite>
